@@ -2,11 +2,11 @@
 
 This is our project for Pattern Recognition CS-342 course.
 The project contributors:
-- **Ahmed Mohamadeen** [@ahmeed2m](git.io/ahmed)
-- **Ali elrafei** [@alielrafeiFCIH](github.com/alielrafeiFCIH)
-- **Ali Khaled** [@ali-khaled-elsayed](github.com/ali-khaled-elsayed)
+- **Ahmed Mohamadeen** [@ahmeed2m](https://git.io/ahmed)
+- **Ali elrafei** [@alielrafeiFCIH](https://github.com/alielrafeiFCIH)
+- **Ali Khaled** [@ali-khaled-elsayed](https://github.com/ali-khaled-elsayed)
 - **Aly Moataz**
-- **Omar Farouk** [@Onsymers](github.com/Onsymers)
+- **Omar Farouk** [@Onsymers](https://github.com/Onsymers)
 
 ## Brief
 The problem is Age Estimation for the popular **[UTKFace](https://susanqq.github.io/UTKFace/)** data-set.<br>
