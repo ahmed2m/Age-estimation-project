@@ -5,7 +5,7 @@ The project contributors:
 - **Ahmed Mohamadeen** [@ahmeed2m](https://git.io/ahmed)
 - **Ali elrafei** [@alielrafeiFCIH](https://github.com/alielrafeiFCIH)
 - **Ali Khaled** [@ali-khaled-elsayed](https://github.com/ali-khaled-elsayed)
-- **Aly Moataz**
+- **Aly Moataz**  [@Aly-Moataz-Shorosh](https://github.com/Aly-Moataz-Shorosh)
 - **Omar Farouk** [@Onsymers](https://github.com/Onsymers)
 
 ## Brief
