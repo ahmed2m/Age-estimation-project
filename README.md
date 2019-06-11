@@ -7,6 +7,8 @@ The project contributors:
 - **Ali Khaled** [@ali-khaled-elsayed](https://github.com/ali-khaled-elsayed)
 - **Aly Moataz**  [@Aly-Moataz-Shorosh](https://github.com/Aly-Moataz-Shorosh)
 - **Omar Farouk** [@Onsymers](https://github.com/Onsymers)
+- **Marwan Bedeir** [@Onsymers](https://github.com/marwan_bedeir)
+
 
 ## Brief
 The problem is Age Estimation for the popular **[UTKFace](https://susanqq.github.io/UTKFace/)** data-set.<br>
